@@ -21,7 +21,7 @@ the results of mutant execution.
 In order to use this repository, you need to first download the dataset provided by Mao ([link](https://github.com/SElab2019/ExtPMT)). We would
 like to thank Mao for making the data publicly available. Our research is impossible without that data. 
 
-Afer downloading the data, you should put the unzip thereof on the folder ```docs/Data``` . Now, you are able to run the experiments
+Afer downloading the data, you should put the unzip thereof in the folder ```docs/Data``` . Now, you are able to run the experiments
 written in the Python programming language. We use jupyter notebooks for running the code.
 
 
