@@ -23,3 +23,19 @@ like to thank Mao for making the data publicly available. Our research is imposs
 
 Afer downloading the data, you should put the unzip thereof on the folder ```docs/Data``` . Now, you are able to run the experiments
 written in the Python programming language. We use jupyter notebooks for running the code.
+
+
+# Citation
+
+Please cite the paper using the following bibtex entry:
+
+```
+@misc{aghamohammadi2020threat,
+    title={The Threat to the Validity of Predictive Mutation Testing: The Impact of Uncovered Mutants},
+    author={Alireza Aghamohammadi and Seyed-Hassan Mirian-Hosseinabadi},
+    year={2020},
+    eprint={2005.11532},
+    archivePrefix={arXiv},
+    primaryClass={cs.SE}
+}
+```
