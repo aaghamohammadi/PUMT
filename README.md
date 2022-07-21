@@ -1,7 +1,7 @@
 # Introduction
 
 This repository includes the experimental implementation of a paper entitled
-*The Threat to the Validity of Predictive Mutation Testing: The Impact of Uncovered Mutants* ([link](https://arxiv.org/abs/2005.11532)).
+*An ensemble-based predictive mutation testing approach that considers impact of unreached mutants* ([link](https://doi.org/10.1002/stvr.1784)).
 
 In this paper, we show that the uncovered mutants could reduce the results of predictive mutation testing considerablly. To investigate 
 our hypothesis we perform the following three steps:
